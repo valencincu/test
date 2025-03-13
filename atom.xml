@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" >
+	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
+	<link href="https://dieghernan.github.io/test/atom.xml" rel="self" type="application/atom+xml" />
+	<link href="https://dieghernan.github.io/test" rel="alternate" type="text/html" />
+	<updated>2025-03-13T15:27:10+00:00</updated>
+	<id>https://dieghernan.github.io/test/atom.xml</id>
+	<title>Chulapa 101 | Chulapa Jekyll Theme starter pack</title>
+	<subtitle>Chulapa Jekyll Theme starter pack</subtitle>
+	<author>
+		<name>Your Name</name>
+					
+	</author>
+	<rights>(c) 2025, Your Name</rights>
+	
+	<logo></logo><entry>
+		<title type="html">Nosotros</title>
+		<link href="https://dieghernan.github.io/test/20000105_mas_info/" rel="alternate" type="text/html" title="Nosotros"/>
+		<published>2000-01-05T00:00:00+00:00</published>
+		<updated>2000-01-05T00:00:00+00:00</updated>
+		<id>https://dieghernan.github.io/test/20000105_mas_info/</id>
+		<content type="html" xml:base="https://dieghernan.github.io/test/20000105_mas_info/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;p&gt;La FIFA (Federación Interestudiantil de Físicos Argentinos) es la federación a través de la cual los estudiantes de física de todo el país organizamos encuentros y actividades para discutir cuestiones gremiales, académicas o de política científica. También es el espacio que tenemos los estudiantes (muchas veces dispersos cada uno en sus estudios) para conocernos mejor los unos a los otros.&lt;/p&gt;
+
+&lt;h3 id=&quot;página-de-la-fifa-&quot;&gt;Página de la FIFA &lt;a class=&quot;fa fa-facebook&quot; href=&quot;https://www.facebook.com/FifaBsAs&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;instagram-de-la-fifa-&quot;&gt;Instagram de la FIFA &lt;a class=&quot;fa fa-instagram&quot; href=&quot;https://www.instagram.com/fifabsas/&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;mail-de-contacto-de-la-fifa--&quot;&gt;Mail de contacto de la FIFA  &lt;a class=&quot;fa fa-envelope&quot; href=&quot;mailto:fifabsas@gmail.com&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;grupo-de-consultas-&quot;&gt;Grupo de consultas &lt;a class=&quot;fa fa-facebook&quot; href=&quot;https://www.facebook.com/groups/303815376436624/&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+
+		</content>
+		
+		<author>
+			<name>Your Name</name></author>
+		<summary type="html">&lt;p&gt;La FIFA (Federación Interestudiantil de Físicos Argentinos) es la federación a través de la cual los estudiantes de física de todo el país organizamos encuentros y actividades para discutir cuestiones gremiales, académicas o de política científica. También es el espacio que tenemos los estudiantes (muchas veces dispersos cada uno en sus estudios) para conocernos mejor los unos a los otros.&lt;/p&gt;
+</summary>
+		<category term="posts"/>
+		
+	</entry><entry>
+		<title type="html">Inscripción</title>
+		<link href="https://dieghernan.github.io/test/20000104_inscripcion/" rel="alternate" type="text/html" title="Inscripción"/>
+		<published>2000-01-04T00:00:00+00:00</published>
+		<updated>2000-01-04T00:00:00+00:00</updated>
+		<id>https://dieghernan.github.io/test/20000104_inscripcion/</id>
+		<content type="html" xml:base="https://dieghernan.github.io/test/20000104_inscripcion/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;!-- #### Ya está cerrada la inscripción para el taller. Te esperamos la siguiente edición!! --&gt;
+&lt;h4 id=&quot;está-lista-la-inscripción-para-este-cuatrimestre-pueden-realizarla-aqui-por-favor-complétenla-lo-antes-posible&quot;&gt;Está lista la inscripción para este cuatrimestre!! Pueden realizarla &lt;a href=&quot;https://forms.gle/ee56xn9r4e2NJFhbA&quot;&gt;AQUI&lt;/a&gt;. Por favor complétenla lo antes posible!!&lt;/h4&gt;
+
+		</content>
+		
+		<author>
+			<name>Your Name</name></author>
+		<summary type="html">&lt;!-- #### Ya está cerrada la inscripción para el taller. Te esperamos la siguiente edición!! --&gt;
+&lt;h4 id=&quot;está-lista-la-inscripción-para-este-cuatrimestre-pueden-realizarla-aqui-por-favor-complétenla-lo-antes-posible&quot;&gt;Está lista la inscripción para este cuatrimestre!! Pueden realizarla &lt;a href=&quot;https://forms.gle/ee56xn9r4e2NJFhbA&quot;&gt;AQUI&lt;/a&gt;. Por favor complétenla lo antes posible!!&lt;/h4&gt;
+</summary>
+		<category term="posts"/>
+		
+	</entry><entry>
+		<title type="html">LaTeX</title>
+		<link href="https://dieghernan.github.io/test/20000103_latex/" rel="alternate" type="text/html" title="LaTeX"/>
+		<published>2000-01-03T00:00:00+00:00</published>
+		<updated>2000-01-03T00:00:00+00:00</updated>
+		<id>https://dieghernan.github.io/test/20000103_latex/</id>
+		<content type="html" xml:base="https://dieghernan.github.io/test/20000103_latex/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h2 id=&quot;programas&quot;&gt;Programas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://miktex.org/download&quot;&gt;MikTeX&lt;/a&gt; (Windows).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tug.org/texlive/&quot;&gt;TeXLive&lt;/a&gt; (Linux).  Instalar con &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo apt-get install texlive-full&lt;/code&gt;. Si no funciona, en Ubuntu, se deben agregar los repositorios Universe.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.xm1math.net/texmaker/download.html&quot;&gt;TeXMaker&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.overleaf.com&quot;&gt;Overleaft&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;recursos&quot;&gt;Recursos&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikibooks.org/wiki/LaTeX&quot;&gt;WikiBooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://detexify.kirelabs.org/classify.html&quot;&gt;Detexify&lt;/a&gt; y &lt;a href=&quot;http://www.ctan.org/tex-archive/info/symbols/comprehensive/&quot;&gt;symbols-a4.pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codecogs.com/latex/eqneditor.php&quot;&gt;Editor online de ecuaciones&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://truben.no/latex/table/&quot;&gt;Editor online de tablas&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;Ejemplos de gráficos por Tikz en &lt;a href=&quot;http://www.texample.net/tikz/&quot;&gt;Texample&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+		</content>
+		
+		<author>
+			<name>Your Name</name></author>
+		<summary type="html">&lt;h2 id=&quot;programas&quot;&gt;Programas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://miktex.org/download&quot;&gt;MikTeX&lt;/a&gt; (Windows).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tug.org/texlive/&quot;&gt;TeXLive&lt;/a&gt; (Linux).  Instalar con &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo apt-get install texlive-full&lt;/code&gt;. Si no funciona, en Ubuntu, se deben agregar los repositorios Universe.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.xm1math.net/texmaker/download.html&quot;&gt;TeXMaker&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.overleaf.com&quot;&gt;Overleaft&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+		<category term="posts"/>
+		
+	</entry><entry>
+		<title type="html">Python</title>
+		<link href="https://dieghernan.github.io/test/20000102_python/" rel="alternate" type="text/html" title="Python"/>
+		<published>2000-01-02T00:00:00+00:00</published>
+		<updated>2000-01-02T00:00:00+00:00</updated>
+		<id>https://dieghernan.github.io/test/20000102_python/</id>
+		<content type="html" xml:base="https://dieghernan.github.io/test/20000102_python/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h2 id=&quot;motivación&quot;&gt;Motivación&lt;/h2&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/fifabsas/talleresfifabsas/master/motivacion.png&quot; alt=&quot;Que programar&quot; /&gt;
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;programas&quot;&gt;Programas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.anaconda.com/distribution/#download-section&quot;&gt;Anaconda&lt;/a&gt; (descargar la versión +3.7).&lt;/li&gt;
+  &lt;li&gt;Spyder (viene con Anaconda)&lt;/li&gt;
+  &lt;li&gt;Jupyter notebook (viene con Anaconda)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;guías-del-curso-introductorio&quot;&gt;Guías del curso introductorio&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/1_Introductorio/introduccion.ipynb?flush_cache=true&quot;&gt;Guía 1: Introducción Python, variables, control de flujo, funciones y más&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/2_Numerico/numerico.ipynb?flush_cache=true&quot;&gt;Guía 2: Cálculo numérico, gráficos y más&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nbviewer.org/github/fifabsas/talleresfifabsas/blob/master/python/3_Ejercicios/ejercicios.ipynb?flush_cache=true&quot;&gt;Guía 3: Diccionarios, hallar picos, ejercicios copados y más&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/fifabsas/talleresfifabsas/raw/master/python/Ejercicios_para_casa&quot;&gt;Ejercicios extra del encuentro introductorio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;notebooks-útiles&quot;&gt;Notebooks útiles&lt;/h2&gt;
+
+&lt;p&gt;En nuestro GitHub pueden encontrar varias notebooks con contenido extra &lt;a href=&quot;https://github.com/fifabsas/talleresfifabsas/tree/master/python/Extras/&quot;&gt;LINK&lt;/a&gt;. Algunas destacadas son:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ejemplo real de uso de librería pandas.&lt;/li&gt;
+  &lt;li&gt;Simulación bien completa de un ejercicio de Física 1.&lt;/li&gt;
+  &lt;li&gt;Conexión con equipos y adquisición programada de datos.&lt;/li&gt;
+  &lt;li&gt;y mucho más!!
+&lt;!-- #### Adquisición --&gt;
+&lt;!-- * [Guía sobre adquisición automática con generador de funciones y osciloscopio](https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/Extras/Labo3/Adquisicion_programada.ipynb) --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- #### Física 1 para Biólogos y Geólogos --&gt;
+&lt;!-- * [Material guía para el taller](https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/F1-ByG/labo1byg.ipynb) --&gt;
+&lt;!-- * [Link a los datos para trabajar](https://drive.google.com/open?id=0B5RwDvEkZzqRejRqTWliLW1rV28) (pueden bajarlo si no desde [acá](https://github.com/fifabsas/talleresfifabsas/raw/master/python/F1-ByG), entrando en cada archivo tocando en el botón `raw`) --&gt;
+
+&lt;!-- #### Estadística para Física Experimental --&gt;
+&lt;!-- * [Material guía para el primer taller (introductorio)](https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/Incertezas/introduccion.ipynb) --&gt;
+&lt;!-- * [Material guía para el segundo taller (Numérico)](https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/Incertezas/numerico.ipynb) --&gt;
+
+&lt;h2 id=&quot;documentación&quot;&gt;Documentación&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Oficial &lt;a href=&quot;http://docs.python.org&quot;&gt;docs.python.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tutorial: &lt;a href=&quot;http://www.learnpython.org/&quot;&gt;Learn Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+		</content>
+		
+		<author>
+			<name>Your Name</name></author>
+		<summary type="html">&lt;h2 id=&quot;motivación&quot;&gt;Motivación&lt;/h2&gt;
+</summary>
+		<category term="posts"/>
+		
+	</entry><entry>
+		<title type="html">Home</title>
+		<link href="https://dieghernan.github.io/test/20000101_home/" rel="alternate" type="text/html" title="Home"/>
+		<published>2000-01-01T00:00:00+00:00</published>
+		<updated>2000-01-01T00:00:00+00:00</updated>
+		<id>https://dieghernan.github.io/test/20000101_home/</id>
+		<content type="html" xml:base="https://dieghernan.github.io/test/20000101_home/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h1 id=&quot;talleres-fifa-bs-as&quot;&gt;Talleres FIFA Bs As&lt;/h1&gt;
+&lt;p&gt;&lt;img width=&quot;700&quot; src=&quot;img/logo_fifa.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;forkongithub&quot;&gt;
+  &lt;a href=&quot;&quot; class=&quot;bg-blue&quot;&gt;
+     GitHub &lt;i class=&quot;fa fa-github&quot;&gt;&lt;/i&gt;
+  &lt;/a&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Your Name</name></author>
+		<summary type="html">&lt;h1 id=&quot;talleres-fifa-bs-as&quot;&gt;Talleres FIFA Bs As&lt;/h1&gt;
+&lt;p&gt;&lt;img width=&quot;700&quot; src=&quot;img/logo_fifa.png&quot; /&gt;&lt;/p&gt;
+</summary>
+		<category term="posts"/>
+		
+	</entry></feed>

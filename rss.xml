@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Chulapa 101 | Chulapa Jekyll Theme starter pack</title>
+		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
+		<link>https://dieghernan.github.io/test</link>
+		<description>Chulapa Jekyll Theme starter pack</description>
+		<language>en-US</language>
+		<copyright>(c) 2025, Your Name</copyright>	
+		<pubDate>Thu, 13 Mar 2025 15:27:10 +0000</pubDate>
+		<lastBuildDate>Thu, 13 Mar 2025 15:27:10 +0000</lastBuildDate>
+		<category>blog</category>
+		<ttl>60</ttl>
+		<atom:link href="https://dieghernan.github.io/test/rss.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>Chulapa 101 | Chulapa Jekyll Theme starter pack</title>
+			<url></url>
+			<link>https://dieghernan.github.io/test</link>
+			<description>Chulapa Jekyll Theme starter pack</description>
+		</image><item>
+			<title>Nosotros</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><p>La FIFA (Federación Interestudiantil de Físicos Argentinos) es la federación a través de la cual los estudiantes de física de todo el país organizamos encuentros y actividades para discutir cuestiones gremiales, académicas o de política científica. También es el espacio que tenemos los estudiantes (muchas veces dispersos cada uno en sus estudios) para conocernos mejor los unos a los otros.</p>
+
+<h3 id="página-de-la-fifa-">Página de la FIFA <a class="fa fa-facebook" href="https://www.facebook.com/FifaBsAs"></a></h3>
+
+<h3 id="instagram-de-la-fifa-">Instagram de la FIFA <a class="fa fa-instagram" href="https://www.instagram.com/fifabsas/"></a></h3>
+
+<h3 id="mail-de-contacto-de-la-fifa--">Mail de contacto de la FIFA  <a class="fa fa-envelope" href="mailto:fifabsas@gmail.com"></a></h3>
+
+<h3 id="grupo-de-consultas-">Grupo de consultas <a class="fa fa-facebook" href="https://www.facebook.com/groups/303815376436624/"></a></h3>
+
+</div>
+				]]>
+			</description>
+			<link>https://dieghernan.github.io/test/20000105_mas_info/</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">https://dieghernan.github.io/test/20000105_mas_info/</guid>
+      <pubDate>Wed, 05 Jan 2000 00:00:00 +0000</pubDate>
+		</item><item>
+			<title>Inscripción</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><!-- #### Ya está cerrada la inscripción para el taller. Te esperamos la siguiente edición!! -->
+<h4 id="está-lista-la-inscripción-para-este-cuatrimestre-pueden-realizarla-aqui-por-favor-complétenla-lo-antes-posible">Está lista la inscripción para este cuatrimestre!! Pueden realizarla <a href="https://forms.gle/ee56xn9r4e2NJFhbA">AQUI</a>. Por favor complétenla lo antes posible!!</h4>
+</div>
+				]]>
+			</description>
+			<link>https://dieghernan.github.io/test/20000104_inscripcion/</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">https://dieghernan.github.io/test/20000104_inscripcion/</guid>
+      <pubDate>Tue, 04 Jan 2000 00:00:00 +0000</pubDate>
+		</item><item>
+			<title>LaTeX</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><h2 id="programas">Programas</h2>
+<ul>
+  <li><a href="http://miktex.org/download">MikTeX</a> (Windows).</li>
+  <li><a href="https://www.tug.org/texlive/">TeXLive</a> (Linux).  Instalar con <code class="language-plaintext highlighter-rouge">sudo apt-get install texlive-full</code>. Si no funciona, en Ubuntu, se deben agregar los repositorios Universe.</li>
+  <li><a href="http://www.xm1math.net/texmaker/download.html">TeXMaker</a>.</li>
+  <li><a href="https://www.overleaf.com">Overleaft</a>.</li>
+</ul>
+
+<h2 id="recursos">Recursos</h2>
+<ul>
+  <li><a href="https://en.wikibooks.org/wiki/LaTeX">WikiBooks</a></li>
+  <li><a href="http://detexify.kirelabs.org/classify.html">Detexify</a> y <a href="http://www.ctan.org/tex-archive/info/symbols/comprehensive/">symbols-a4.pdf</a></li>
+  <li><a href="http://www.codecogs.com/latex/eqneditor.php">Editor online de ecuaciones</a>,</li>
+  <li><a href="http://truben.no/latex/table/">Editor online de tablas</a>,</li>
+  <li>Ejemplos de gráficos por Tikz en <a href="http://www.texample.net/tikz/">Texample</a></li>
+</ul>
+
+</div>
+				]]>
+			</description>
+			<link>https://dieghernan.github.io/test/20000103_latex/</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">https://dieghernan.github.io/test/20000103_latex/</guid>
+      <pubDate>Mon, 03 Jan 2000 00:00:00 +0000</pubDate>
+		</item><item>
+			<title>Python</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><h2 id="motivación">Motivación</h2>
+
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/fifabsas/talleresfifabsas/master/motivacion.png" alt="Que programar" />
+</div>
+
+<pre></pre>
+
+<h2 id="programas">Programas</h2>
+<ul>
+  <li><a href="https://www.anaconda.com/distribution/#download-section">Anaconda</a> (descargar la versión +3.7).</li>
+  <li>Spyder (viene con Anaconda)</li>
+  <li>Jupyter notebook (viene con Anaconda)</li>
+</ul>
+
+<h2 id="guías-del-curso-introductorio">Guías del curso introductorio</h2>
+<ul>
+  <li><a href="https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/1_Introductorio/introduccion.ipynb?flush_cache=true">Guía 1: Introducción Python, variables, control de flujo, funciones y más</a></li>
+  <li><a href="https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/2_Numerico/numerico.ipynb?flush_cache=true">Guía 2: Cálculo numérico, gráficos y más</a></li>
+  <li><a href="https://nbviewer.org/github/fifabsas/talleresfifabsas/blob/master/python/3_Ejercicios/ejercicios.ipynb?flush_cache=true">Guía 3: Diccionarios, hallar picos, ejercicios copados y más</a></li>
+  <li><a href="https://github.com/fifabsas/talleresfifabsas/raw/master/python/Ejercicios_para_casa">Ejercicios extra del encuentro introductorio</a></li>
+</ul>
+
+<h2 id="notebooks-útiles">Notebooks útiles</h2>
+
+<p>En nuestro GitHub pueden encontrar varias notebooks con contenido extra <a href="https://github.com/fifabsas/talleresfifabsas/tree/master/python/Extras/">LINK</a>. Algunas destacadas son:</p>
+<ul>
+  <li>Ejemplo real de uso de librería pandas.</li>
+  <li>Simulación bien completa de un ejercicio de Física 1.</li>
+  <li>Conexión con equipos y adquisición programada de datos.</li>
+  <li>y mucho más!!
+<!-- #### Adquisición -->
+<!-- * [Guía sobre adquisición automática con generador de funciones y osciloscopio](https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/Extras/Labo3/Adquisicion_programada.ipynb) --></li>
+</ul>
+
+<!-- #### Física 1 para Biólogos y Geólogos -->
+<!-- * [Material guía para el taller](https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/F1-ByG/labo1byg.ipynb) -->
+<!-- * [Link a los datos para trabajar](https://drive.google.com/open?id=0B5RwDvEkZzqRejRqTWliLW1rV28) (pueden bajarlo si no desde [acá](https://github.com/fifabsas/talleresfifabsas/raw/master/python/F1-ByG), entrando en cada archivo tocando en el botón `raw`) -->
+
+<!-- #### Estadística para Física Experimental -->
+<!-- * [Material guía para el primer taller (introductorio)](https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/Incertezas/introduccion.ipynb) -->
+<!-- * [Material guía para el segundo taller (Numérico)](https://nbviewer.jupyter.org/github/fifabsas/talleresfifabsas/blob/master/python/Incertezas/numerico.ipynb) -->
+
+<h2 id="documentación">Documentación</h2>
+<ul>
+  <li>Oficial <a href="http://docs.python.org">docs.python.org</a></li>
+  <li>Tutorial: <a href="http://www.learnpython.org/">Learn Python</a></li>
+</ul>
+</div>
+				]]>
+			</description>
+			<link>https://dieghernan.github.io/test/20000102_python/</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">https://dieghernan.github.io/test/20000102_python/</guid>
+      <pubDate>Sun, 02 Jan 2000 00:00:00 +0000</pubDate>
+		</item><item>
+			<title>Home</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><h1 id="talleres-fifa-bs-as">Talleres FIFA Bs As</h1>
+<p><img width="700" src="img/logo_fifa.png" /></p>
+
+<p><span id="forkongithub">
+  <a href="" class="bg-blue">
+     GitHub <i class="fa fa-github"></i>
+  </a>
+</span></p>
+</div>
+				]]>
+			</description>
+			<link>https://dieghernan.github.io/test/20000101_home/</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">https://dieghernan.github.io/test/20000101_home/</guid>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+		</item></channel>
+</rss>
