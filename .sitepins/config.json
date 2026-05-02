@@ -1,0 +1,13 @@
+{
+  "content": "content/english",
+  "media": "assets/images",
+  "public": "static",
+  "configs": [
+    "config/_default",
+    "theme.toml",
+    "hugo.toml",
+    "data"
+  ],
+  "custom-commit": false,
+  "arrangement": []
+}
